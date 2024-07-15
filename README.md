@@ -1,1 +1,2 @@
 Hello I am Om Pradeep
+I am a recent graduate and a tech enthusiast eager to begin my career in the tech industry.I have a strong foundation in agile methodologies,and software development life cycle(SDLC).I have experience with programming languages such as c,java and python .I am keen to apply my skills in managing,monitoring and troubleshooting systems.I am excited to contribute to innovative projects and grow my expertise in a dynamic and challenging environment.
